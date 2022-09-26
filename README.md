@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **eduardohattorif@gmail.com**
 
-- 📄 Know about my experiences [https://www.danielkossmann.com/referencias-entender-crise-financeira-2022/](https://www.danielkossmann.com/referencias-entender-crise-financeira-2022/)
-
 - ⚡ Fun fact **I play violin, love soccer**
 
 ### Blogs posts
