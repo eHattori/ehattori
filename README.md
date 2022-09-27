@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Monólitos vs|e|ou Microservices](https://eduardohattorif.medium.com/mon%C3%B3litos-vs-e-ou-microservices-849277b7b998?source=rss-cf98113469e5------2)
+- [Construção de times com Team Topologies](https://eduardohattorif.medium.com/constru%C3%A7%C3%A3o-de-times-com-team-topologies-b8b6999e7e7e?source=rss-cf98113469e5------2)
+- [Do We Need to Accelerate?](https://eduardohattorif.medium.com/do-we-need-to-accelerate-c5c88602ac73?source=rss-cf98113469e5------2)
+- [Nutshell Apache Kafka](https://eduardohattorif.medium.com/nutshell-apache-kafka-4f6e7ef3cff2?source=rss-cf98113469e5------2)
+- [A Essência da Engenharia de Confiabilidade](https://eduardohattorif.medium.com/a-ess%C3%AAncia-da-engenharia-de-confiabilidade-a9ffd0a0c5a3?source=rss-cf98113469e5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
