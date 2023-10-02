@@ -1,6 +1,6 @@
 ### Blogs 
 
-NodeJs Specialist 
+NodeJs Backend Specialist 
 <!-- BLOG-POST-LIST:START -->
 - [Monólitos vs|e|ou Microservices](https://eduardohattorif.medium.com/mon%C3%B3litos-vs-e-ou-microservices-849277b7b998?source=rss-cf98113469e5------2)
 - [Construção de times com Team Topologies](https://eduardohattorif.medium.com/constru%C3%A7%C3%A3o-de-times-com-team-topologies-b8b6999e7e7e?source=rss-cf98113469e5------2)
